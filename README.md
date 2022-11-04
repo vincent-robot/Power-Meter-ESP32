@@ -15,7 +15,8 @@ As I am new to ESP32, I needed to setup a dev environnement. My journey is descr
   What the code is actualy doing....
   
 # Configuring MQTT
-  all is said
+  all is said :-)
+  
   
  
 
