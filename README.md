@@ -6,10 +6,11 @@ Data are send throught the wifi to a MQTT gateway and then use wih openhab.
 The project is based on and ESP32 (<10€) and SCT-013 10A/1V sensor (~10€).
 
 # Environnement
+
 As I am new to ESP32, I needed to setup a dev environnement. My journey is described <a href="https://github.com/vincent-robot/Power-Meter-ESP32/blob/main/EnvSetup.md"> here</a> .
 
 # Electronics
-  Below description of electronic part 
+Electronic and hardware part is describer <a href="https://github.com/vincent-robot/Power-Meter-ESP32/blob/main/hardware.md"> here</a> .
 
 # Code desc
   What the code is actualy doing....
@@ -17,6 +18,3 @@ As I am new to ESP32, I needed to setup a dev environnement. My journey is descr
 # Configuring MQTT
   all is said :-)
   
-  
- 
-
